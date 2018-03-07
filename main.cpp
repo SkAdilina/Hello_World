@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello World - main user");
+    printf("Hello World by another user");
     return 0;
 }
